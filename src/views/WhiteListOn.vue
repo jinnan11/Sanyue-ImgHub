@@ -9,7 +9,7 @@
             <br>
             <div>Powered By: 
                 <span>
-                <a href="https://github.com/MarSeventh/CloudFlare-ImgBed" style="color: cornflowerblue;">
+                <a href="https://github.com/jinnan11/CloudFlare-ImgBed" style="color: cornflowerblue;">
                     CloudFlare-ImgBed
                 </a>
                 </span>
