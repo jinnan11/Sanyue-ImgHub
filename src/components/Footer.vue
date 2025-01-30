@@ -16,7 +16,7 @@ export default {
     computed: {
         ...mapGetters(['userConfig']),
         footerLink() {
-            return this.userConfig?.footerLink || 'https://i.jnpan.top'
+            return this.userConfig?.footerLink || 'https://jinnan.top'
         }
     }
 }
