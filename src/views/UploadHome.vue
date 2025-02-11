@@ -237,7 +237,7 @@ export default {
     computed: {
         ...mapGetters(['userConfig', 'bingWallPapers', 'uploadCopyUrlForm', 'compressConfig', 'storeUploadChannel', 'storeUploadNameType', 'customUrlSettings', 'storeAutoRetry']),
         ownerName() {
-            return this.userConfig?.ownerName || 'Sanyue'
+            return this.userConfig?.ownerName || '槿南'
         },
         logoUrl() {
             return this.userConfig?.logoUrl || require('../assets/logo.png')

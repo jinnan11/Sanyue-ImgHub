@@ -62,7 +62,7 @@ export default {
             return this.userConfig?.bkOpacity || 1
         },
         ownerName() {
-            return this.userConfig?.ownerName || 'Sanyue'
+            return this.userConfig?.ownerName || '槿南'
         },
         isDark() {
             return this.$store.getters.useDarkMode
