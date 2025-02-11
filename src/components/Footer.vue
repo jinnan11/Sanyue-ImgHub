@@ -1,6 +1,6 @@
 <template>
     <div class="page-footer" v-if="!disableFooter">
-        <p>© 2025 <a class="footer-name" href="https://github.com/jinnan11" target="_blank">槿南</a>
+        <p>© 2024-{{ thisYear }} <a class="footer-name" href="https://github.com/jinnan11" target="_blank">槿南</a>
             <a :href="footerLink" target="_blank">
                 <font-awesome-icon icon="paper-plane" class="footer-link-icon"/>
             </a>
