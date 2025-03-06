@@ -44,10 +44,10 @@
             </el-tooltip>
         </div>
         <div class="header">
-            <a href="https://github.com/MarSeventh/CloudFlare-ImgBed">
+            <a href="https://github.com/jinnan11/CloudFlare-ImgBed">
                 <img class="logo" alt="Sanyue logo" :src="logoUrl"/>
             </a> 
-            <h1 class="title"><a class="main-title" href="https://github.com/MarSeventh/CloudFlare-ImgBed" target="_blank">{{ ownerName }}</a> ImgHub</h1>
+            <h1 class="title"><a class="main-title" href="https://github.com/jinnan11/CloudFlare-ImgBed" target="_blank">{{ ownerName }}</a> ImgHub</h1>
         </div>
         <UploadForm 
             :selectedUrlForm="selectedUrlForm" 

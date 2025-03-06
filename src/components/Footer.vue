@@ -16,7 +16,7 @@ export default {
     computed: {
         ...mapGetters(['userConfig']),
         footerLink() {
-            return this.userConfig?.footerLink || 'https://github.com/MarSeventh/CloudFlare-ImgBed'
+            return this.userConfig?.footerLink || 'https://github.com/jinnan11/CloudFlare-ImgBed'
         },
         thisYear() {
             return new Date().getFullYear()
